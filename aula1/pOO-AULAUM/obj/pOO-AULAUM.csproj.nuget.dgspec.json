@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20211011110019\\Source\\Repos\\mattes744\\POO_VISUAL_STUDIO\\aula1\\pOO-AULAUM\\pOO-AULAUM.csproj": {}
+    "C:\\Users\\20211011110019\\source\\repos\\POO_VISUAL_STUDIO\\aula1\\pOO-AULAUM\\pOO-AULAUM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20211011110019\\Source\\Repos\\mattes744\\POO_VISUAL_STUDIO\\aula1\\pOO-AULAUM\\pOO-AULAUM.csproj": {
+    "C:\\Users\\20211011110019\\source\\repos\\POO_VISUAL_STUDIO\\aula1\\pOO-AULAUM\\pOO-AULAUM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20211011110019\\Source\\Repos\\mattes744\\POO_VISUAL_STUDIO\\aula1\\pOO-AULAUM\\pOO-AULAUM.csproj",
+        "projectUniqueName": "C:\\Users\\20211011110019\\source\\repos\\POO_VISUAL_STUDIO\\aula1\\pOO-AULAUM\\pOO-AULAUM.csproj",
         "projectName": "pOO-AULAUM",
-        "projectPath": "C:\\Users\\20211011110019\\Source\\Repos\\mattes744\\POO_VISUAL_STUDIO\\aula1\\pOO-AULAUM\\pOO-AULAUM.csproj",
+        "projectPath": "C:\\Users\\20211011110019\\source\\repos\\POO_VISUAL_STUDIO\\aula1\\pOO-AULAUM\\pOO-AULAUM.csproj",
         "packagesPath": "C:\\Users\\20211011110019\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20211011110019\\Source\\Repos\\mattes744\\POO_VISUAL_STUDIO\\aula1\\pOO-AULAUM\\obj\\",
+        "outputPath": "C:\\Users\\20211011110019\\source\\repos\\POO_VISUAL_STUDIO\\aula1\\pOO-AULAUM\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\20211011110019\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0-windows7.0"
@@ -57,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
