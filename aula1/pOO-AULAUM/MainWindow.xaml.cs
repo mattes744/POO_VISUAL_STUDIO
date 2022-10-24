@@ -24,5 +24,14 @@ namespace pOO_AULAUM
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Retangulo x = new Retangulo();
+            x.SetBase(double.Parse(txtbase.Text));
+            x.SetAltura(double.Parse(txtaltura.Text));
+            txtarea.Text = x.CalcArea().ToString();
+            txtdiagonal.Text = x.CalcDiagonal().ToString();
+        }
     }
 }

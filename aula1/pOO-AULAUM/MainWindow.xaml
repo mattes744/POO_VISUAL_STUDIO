@@ -13,7 +13,7 @@
                 <TextBlock HorizontalAlignment="Left" Margin="135,13,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="pt-br" Text="Altura"/></TextBlock>
                 <TextBox x:Name="txtbase" HorizontalAlignment="Left" Margin="10,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
                 <TextBox x:Name="txtaltura" HorizontalAlignment="Left" Margin="135,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-                <Button Content="Calcular" HorizontalAlignment="Left" Margin="11,64,0,0" VerticalAlignment="Top" Height="25" Width="243"/>
+                <Button Content="Calcular" HorizontalAlignment="Left" Margin="11,64,0,0" VerticalAlignment="Top" Height="25" Width="243" Click="Button_Click"/>
                 <TextBlock HorizontalAlignment="Left" Margin="11,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="pt-br" Text="Area"/></TextBlock>
                 <TextBlock HorizontalAlignment="Left" Margin="135,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="pt-br" Text="Diagonal"/></TextBlock>
                 <TextBox x:Name="txtarea" HorizontalAlignment="Left" Margin="11,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
